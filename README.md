@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/roboteker-bot-python?style=for-the-badge)](https://github.com/DanAzevedo/roboteker-bot-python/issues)
 
 <p>
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISH&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20DEVELOPING&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <h3>Bot feito em Python para discord com funcionalidades simples como calculadora e piadas. Também foi usada a API OpenWeatheMap para informar condições climáticas digitando apenas o nome da cidade e o país como parâmetro.</h3>
